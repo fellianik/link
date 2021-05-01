@@ -78,95 +78,47 @@
 ## Tools yang sangat berguna buat Web Developers
 
 ### Hosting & Deployment
-Netlify
-   https://netlify.com/
-
-Heroku
-   https://heroku.com/
-        
+   - Netlify: https://netlify.com/
+   - Heroku: https://heroku.com/
         
 ### Royalty-Free Images & Video
-Unsplash
-https://unsplash.com/
-
-Pexels
-https://pexels.com/
-
-Undraw
-https://undraw.co/illustrations
-
-Coverr
-https://coverr.co/
+   - Unsplash: https://unsplash.com/
+   - Pexels: https://pexels.com/
+   - Undraw: https://undraw.co/illustrations
+   - Coverr: https://coverr.co/
 
 ### Icons & Fonts
-Flaticon
-https://flaticon.com/
-
-Animated Icons
-https://icons8.com/animated-icons
-
-Font Awesome
-https://fontawesome.com/
-
-Google Fonts
-https://fonts.google.com/
+   - Flaticon: https://flaticon.com/
+   - Animated Icons: https://icons8.com/animated-icons
+   - Font Awesome: https://fontawesome.com/
+   - Google Fonts: https://fonts.google.com/
 
 ### Learning
-Freecodecamp
-https://freecodecamp.org/
-
-The odin project
-https://theodinproject.com/
-
-Mem.Dev
-https://mem.dev/
+   - Freecodecamp: https://freecodecamp.org/
+   - The odin project: https://theodinproject.com/
+   - Mem.Dev: https://mem.dev/
 
 ### Mockup Tools
-Figma
-https://figma.com/
-
-Zeplin
-https://zeplin.io/
+   - Figma: https://figma.com/
+   - Zeplin: https://zeplin.io/
 
 ### Freelancing
-Upwork
-https://upwork.com/
-
-Freelancer
-https://freelancer.com/
-
-Fiverr
-https://fiverr.com/
+   - Upwork: https://upwork.com/
+   - Freelancer: https://freelancer.com/
+   - Fiverr: https://fiverr.com/
 
 ### Design Ideas
-Awwwards
-https://awwwards.com/websites
-
-Dribbble
-https://dribbble.com/
+   - Awwwards: https://awwwards.com/websites
+   - Dribbble: https://dribbble.com/
 
 ### Exercies & Algorithms
-Leetcode
-https://leetcode.com/
-
-Exercism
-https://exercism.io/
-
-Codewars
-https://codewars.com/
+   - Leetcode: https://leetcode.com/
+   - Exercism: https://exercism.io/
+   - Codewars: https://codewars.com/
 
 ### General Tools
-EmailJs
-https://emailjs.com/
-
-Can i use
-https://caniuse.com/
-
-Image Compressor
-https://imagecompressor.com/
-
-Css-Tricks
-https://css-tricks.com/
-
-Stackoverflow
-https://stackoverflow.com/
+   - EmailJs: https://emailjs.com/
+   - Can i use: https://caniuse.com/
+   - Image Compressor: https://imagecompressor.com/
+   - Css-Tricks: https://css-tricks.com/
+   - Stackoverflow: https://stackoverflow.com/
