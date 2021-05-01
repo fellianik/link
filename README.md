@@ -87,6 +87,7 @@
    - Pexels: https://pexels.com/
    - Undraw: https://undraw.co/illustrations
    - Coverr: https://coverr.co/
+   - Freepick: https://www.freepik.com/
 
 ### Icons & Fonts
    - Flaticon: https://flaticon.com/
